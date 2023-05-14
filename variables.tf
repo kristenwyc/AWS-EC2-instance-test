@@ -1,3 +1,1 @@
-variable "ami" {
-  type = string
-}
+
